@@ -282,7 +282,7 @@ function main()
                 ShowMessage('Не качай скрипты из непроверенных источников! Привет от chapo', 'на этот раз тебе повезло', 0x00000010)
                 ShowMessage('На этот раз тебе повезло, тут нет ни стиллера, ни лоадера. Можешь сам прогнать скрипт через декомпилятор. Впредь будь осторожней, не качай ничего из тиктока/ютуба, никто не будет бесплатно давать рабочий способ заработка\n@chapo', 'На этот раз тебе повезло', 0x00000010)
                 ShowMessage('Код скрипта будет открыт через пару секунд...', 'chapo', style)
-                os.execute('explorer "https://youtu.be/dQw4w9WgXcQ"')
+                os.execute('explorer "https://github.com/GovnocodedByChapo/arz_fakecheat/blob/main/fakesellcar.lua"')
             end
         end
     end
